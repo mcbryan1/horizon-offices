@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*------------ Navigation Starts ---------------*/
+.nav-bar{
+    background-color: #f8f8f8;
+    border-radius: 0px;
+    border: none;
+    height: 65px;
+    margin-bottom: 0px;
+    
+}
+.navbar-logo img{
+    height: 50px;
+    margin-top: 0px;
+}
+.nav-bar ul li a{
+    text-transform: uppercase;
+    font-family: 'sans serif';
+    font-weight: bold;
+    margin-top: 12px; 
+    margin-right: 50px;
+}
+.navbar-head img{
+    position: absolute;
+    height: 20px;
+    margin-top: 29px;
+    width: 40px;
+}
+.kenya-flag{
+    margin-right: auto;
+    margin-left: 30em;
+}
+.nigeria-flag{
+    margin-right: auto;
+    margin-left: 35em;
+}
+.gana-flag{
+    margin-right: auto;
+    margin-left: 40em;
+}
+/*--------------------------------- Carousel Starts ----------------------------*/
+.carousel-c img{
+    height: 591px !important;
+    width: 100%;
+}
+
+/* -------------------------------- Grid Starts --------------------------------*/
+.title h2{
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+/*---------------------------------- Footer -----------------------------------*/
+.footer{
+    background-color: darkblue;
+    margin-top: 40px; 
+    margin-bottom: 10px;
+}
+.footer h3{
+    color: orangered;
+    text-transform: uppercase;
+}
+.footer h4{
+    color: greenyellow;
+}
+.footer p{
+    color: white;
+}
